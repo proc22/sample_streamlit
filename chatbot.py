@@ -1,3 +1,36 @@
+Skip to content
+Search or jump to…
+Pull requests
+Issues
+Codespaces
+Marketplace
+Explore
+ 
+@proc22 
+proc22
+/
+sample_streamlit
+Public
+Cannot fork because you own this repository and are not a member of any organizations.
+Code
+Issues
+Pull requests
+Actions
+Projects
+Wiki
+Security
+Insights
+Settings
+Beta Try the new code view
+sample_streamlit/chatbot.py /
+@proc22
+proc22 FirstCommit
+Latest commit 19f75e7 13 minutes ago
+ History
+ 1 contributor
+161 lines (131 sloc)  7.65 KB
+ 
+
 # import library
 
 import streamlit as st
@@ -159,3 +192,18 @@ hide_st_style = """
             </style>
             """
 st.markdown(hide_st_style, unsafe_allow_html=True)
+Footer
+© 2023 GitHub, Inc.
+Footer navigation
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
+sample_streamlit/chatbot.py at master · proc22/sample_streamlit
